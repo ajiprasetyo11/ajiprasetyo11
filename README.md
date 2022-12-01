@@ -30,7 +30,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajiprasetyo11&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajiprasetyo11&" alt="ajiprasetyo11" /></p>
+ 
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajiprasetyo11&" alt="ajiprasetyo11" /></p>
 
 <!---
 ajiprasetyo11/ajiprasetyo11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
