@@ -28,10 +28,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajiprasetyo11&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></p>
+<div align="left"> 
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajiprasetyo11&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></div>
 
  
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajiprasetyo11&" alt="ajiprasetyo11" /></p>
+<div align="left"> 
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajiprasetyo11&" alt="ajiprasetyo11" />
+</div>
 
 <!---
 ajiprasetyo11/ajiprasetyo11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
