@@ -25,13 +25,19 @@
 - 📫 How to reach me **ajibusiness11@gmail.com**
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+</div>
 
+
+### :fire: My Stats :
 <div align="left"> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajiprasetyo11&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></div>
-  
-  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajiprasetyo11&show_icons=true&locale=en&layout=compact" alt="kimjayden" />&nbsp;
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajiprasetyo11&" alt="ajiprasetyo11" />
+</div>
   
 <div align="left"> 
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajiprasetyo11&" alt="ajiprasetyo11" />
