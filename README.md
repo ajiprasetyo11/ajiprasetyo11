@@ -30,10 +30,11 @@
 
 <div align="left"> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajiprasetyo11&show_icons=true&locale=en&layout=compact" alt="kimjayden" /></div>
-
- 
-<div align="right"> 
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ajiprasetyo11&" alt="ajiprasetyo11" />
+  
+  
+  
+<div align="left"> 
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajiprasetyo11&" alt="ajiprasetyo11" />
 </div>
 
 <!---
