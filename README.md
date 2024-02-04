@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ajiprasetyo11/">
+  <a href="https://www.linkedin.com/in/ajiprass11/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/datawithap">
@@ -19,7 +19,7 @@
 
 ---
 ### 👨‍💻 About Me :
-- 📌 I’m interested in Business Intelligence, Data Analyst and Data Science.
+- 📌 I’m interested in Data Tech.
 - 👨‍🎓 I’m currently learning **MySQL and Python.**
 - 🔥 In the near future, I am planning to build content useful for everyone.
 - 📫 How to reach me **ajibusiness11@gmail.com**
