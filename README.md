@@ -13,9 +13,7 @@
 </h1>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/117008370/201519320-69de63cc-a0f4-42b4-8291-dc000c742a8c.png" width="550" height="550"/>
-</div>
+
 
 ---
 ### 👨‍💻 About Me :
