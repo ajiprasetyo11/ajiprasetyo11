@@ -18,17 +18,10 @@
 ---
 ### 👨‍💻 About Me :
 - 📌 I’m interested in Data Tech.
-- 👨‍🎓 I’m currently learning **MySQL and Python.**
+- 👨‍🎓 I’m currently learning **AI & Blockhain.**
 - 🔥 In the near future, I am planning to build content useful for everyone.
 - 📫 How to reach me **ajibusiness11@gmail.com**
 
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode"  alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
-</div>
 
 
 ### :fire: My Stats :
