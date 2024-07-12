@@ -18,7 +18,7 @@
 ---
 ### 👨‍💻 About Me :
 - 📌 I’m interested in Data Tech.
-- 👨‍🎓 I’m currently learning **AI & Blockhain.**
+- 👨‍🎓 I’m currently learning **AI & Data Science.**
 - 🔥 In the near future, I am planning to build content useful for everyone.
 - 📫 How to reach me **ajibusiness11@gmail.com**
 
