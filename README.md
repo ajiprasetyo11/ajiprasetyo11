@@ -25,7 +25,7 @@
 
 
 ### :fire: My Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajiprasetyo11&show_icons=true)
+<!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajiprasetyo11&show_icons=true)--->
 
 <div align="left">   
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajiprasetyo11&" alt="ajiprasetyo11" />
